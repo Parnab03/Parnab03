@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [NOTHING!!](https://tenor.com/view/you-wasted-your-time-congratulations-wasted-time-wasted-time-waste-time-waste-of-time-doctor-who-gif-26696900)  
   
 
-- 🌱 I’m currently learning.... Let me think!! 🤔   
+- 🌱 I’m currently learning.... React   
   
 
 - ❓ Ask me about anything you want, i can give you the related YouTube link!! 👍  
