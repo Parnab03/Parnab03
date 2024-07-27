@@ -15,7 +15,7 @@
 - ❓ Ask me about anything you want, i can give you the related YouTube link!! 👍  
   
 
-- ⚡ Fun fact: also nothing  
+- ⚡ Fun fact: The first programmer was the daughter of a mad poet 
   
 
 <br/>  
