@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning: React   
   
 
-- ❓ Ask me about anything you want, i can give you the related YouTube link!! 👍  
+- ❓ Ask me about: anything 
   
 
 - ⚡ Fun fact: The first programmer was the daughter of a mad poet 
