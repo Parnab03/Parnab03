@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning: React   
   
 
-- ❓ Ask me about: anything 
+- ❓ Ask me about: Frontend Development and git & GitHub 
   
 
 - ⚡ Fun fact: The first programmer was the daughter of a mad poet 
