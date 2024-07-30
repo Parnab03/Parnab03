@@ -6,7 +6,7 @@
 ### <div align="center">Hey, I'm Parnab 🐐, the occasional coder with a blanket of code comfort! 🤥 Let's turn bugs into comedy sketches 📐 and make coding a lighthearted dance 🕺! Cheers to occasional coding whimsy! 💻👾</div>  
   
 
-- 🔭 I’m currently working on [NOTHING!!](https://tenor.com/view/you-wasted-your-time-congratulations-wasted-time-wasted-time-waste-time-waste-of-time-doctor-who-gif-26696900)  
+- 🔭 I’m currently working on frontend
   
 
 - 🌱 I’m currently learning: React   
