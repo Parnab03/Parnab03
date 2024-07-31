@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on frontend
   
 
-- 🌱 I’m currently learning: React   
+- 🌱 I’m currently learning: React with bootstrap  
   
 
 - ❓ Ask me about: Frontend Development and git & GitHub 
