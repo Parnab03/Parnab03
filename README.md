@@ -96,6 +96,21 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parnab03&hide_border=true&layout=compact" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Parnab03&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parnab03&layout=donut-vertical)](https://github.com/Parnab03/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Parnab03&show_icons=true&theme=gruvbox"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Parnab03&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parnab03&show_icons=true" />
+</picture>
+
+
+[![Parnab Bagchi's GitHub Streak](https://streak-stats.demolab.com?user=Parnab03&theme=gruvbox&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <br />
 
 ----
