@@ -6,7 +6,7 @@
 ### <div align="center">Hey, I'm Parnab 🐐, the occasional coder with a blanket of code comfort! 🤥 Let's turn bugs into comedy sketches 📐 and make coding a lighthearted dance 🕺! Cheers to occasional coding whimsy! 💻👾</div>  
   
 
-- 🔭 I’m currently working on frontend
+- 🔭 I’m currently working on frontend and backend 
   
 
 - 🌱 I’m currently learning: React with bootstrap  
