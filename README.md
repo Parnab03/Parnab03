@@ -94,11 +94,11 @@
 
 ### 📝GitHub Summary  
 <div align="center">
-   <img height="190em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parnab03&theme=solarized" />
-   <img height="190em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parnab03&theme=solarized&exclude={exclude}" />
-   <img height="193em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parnab03&theme=solarized&exclude={exclude}" />
-   <img height="193em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parnab03&theme=solarized" />
-   <img height="193em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Parnab03&theme=solarized&utcOffset=5.3" /><br>
+   <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parnab03&theme=solarized" />
+   <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parnab03&theme=solarized&exclude={exclude}" />
+   <img height="162em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parnab03&theme=solarized&exclude={exclude}" />
+   <img height="162em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parnab03&theme=solarized" />
+   <img height="162em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Parnab03&theme=solarized&utcOffset=5.3" /><br>
   </div>
 
 <br />
