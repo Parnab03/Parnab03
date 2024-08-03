@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" align="center" height="" width="600" />
+<img src="https://github.com/Parnab03/Parnab03/blob/main/octocat-1722675939684.png" align="right" height="" width="350" />
 </div>  
   
 
 ### <div align="center">Hey, I'm Parnab 🐐, the occasional coder with a blanket of code comfort! 🤥 Let's turn bugs into comedy sketches 📐 and make coding a lighthearted dance 🕺! Cheers to occasional coding whimsy! 💻👾</div>  
   
 
-- 🔭 I’m currently working on frontend 
+- 🔭 I’m currently working on Projects 
   
 
 - 🌱 I’m currently learning: React with bootstrap  
