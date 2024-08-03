@@ -33,15 +33,11 @@
 ### 📝 GitHub Summary  
 <div align="center">
    <img height="160em" src="https://raw.githubusercontent.com/Parnab03/Parnab03/main/profile-summary-card-output/solarized/0-profile-details.svg" />
-   <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parnab03&theme=solarized&exclude={exclude}" />
-   <img height="162em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parnab03&theme=solarized&exclude={exclude}" />
-   <img height="162em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parnab03&theme=solarized" />
-   <img height="162em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Parnab03&theme=solarized&utcOffset=5.3" /><br>
+   <img height="160em" src="https://raw.githubusercontent.com/Parnab03/Parnab03/main/profile-summary-card-output/solarized/1-repos-per-language.svg" />
+   <img height="162em" src="https://raw.githubusercontent.com/Parnab03/Parnab03/main/profile-summary-card-output/solarized/2-most-commit-language.svg" />
+   <img height="162em" src="https://raw.githubusercontent.com/Parnab03/Parnab03/main/profile-summary-card-output/solarized/3-stats.svg" />
+   <img height="162em" src="https://raw.githubusercontent.com/Parnab03/Parnab03/main/profile-summary-card-output/solarized/4-productive-time.svg" /><br>
   </div>
-  
-[![](https://raw.githubusercontent.com/Parnab03/Parnab03/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Parnab03/Parnab03/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Parnab03/Parnab03/main/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Parnab03/Parnab03/main/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Parnab03/Parnab03/main/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### 🌐 Connect With Me
 
