@@ -94,7 +94,7 @@
 
 ### 📝GitHub Summary  
 <div align="center">
-   <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parnab03&theme=solarized" />
+   <img height="160em" src="https://raw.githubusercontent.com/Parnab03/Parnab03/main/profile-summary-card-output/solarized/0-profile-details.svg" />
    <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parnab03&theme=solarized&exclude={exclude}" />
    <img height="162em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parnab03&theme=solarized&exclude={exclude}" />
    <img height="162em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parnab03&theme=solarized" />
