@@ -20,7 +20,7 @@
 
 <br/>  
 
-### ⚙️My Skill Set
+### ⚙️ My Skill Set
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -36,7 +36,7 @@
   </a>
 </p>  
 
-### 📝GitHub Summary  
+### 📝 GitHub Summary  
 <div align="center">
    <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parnab03&theme=solarized" />
    <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parnab03&theme=solarized&exclude={exclude}" />
@@ -45,7 +45,7 @@
    <img height="162em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Parnab03&theme=solarized&utcOffset=5.3" /><br>
   </div>
 
-### 🌐Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parnab-bagchi-072966251" target="_blank">
