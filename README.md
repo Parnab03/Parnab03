@@ -24,13 +24,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <div align="center">
+    <div>
       <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&theme=light" />
     </div>
-    <div align="center">
+    <div>
       <img src="https://skillicons.dev/icons?i=java,c,python&theme=light" />
     </div>
-    <div align="center">
+    <div>
       <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode&theme=light" />
     </div>
   </a>
