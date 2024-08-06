@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning: React with Bootstrap  
   
 
-- ❓ Ask me about: Frontend Development and git & GitHub 
+- ❓ Ask me about: Frontend Development and Git & GitHub 
   
 
 - ⚡ Fun fact: The first programmer was the daughter of a mad poet 
