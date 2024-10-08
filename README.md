@@ -7,13 +7,13 @@
   
 <br/>
 
-- 🔭 I’m currently working on Projects 
+- 🔭 I’m currently working on Open Source 
   
 
-- 🌱 I’m currently learning: React with Bootstrap  
+- 🌱 I’m currently learning: M-E-R-N  
   
 
-- ❓ Ask me about: Frontend Development and Git & GitHub 
+- ❓ Ask me about: Fullstack Development and Git & GitHub 
   
 
 - ⚡ Fun fact: The first programmer was the daughter of a mad poet 
