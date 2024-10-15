@@ -40,6 +40,9 @@
    <img height="162em" src="https://raw.githubusercontent.com/Parnab03/Parnab03/main/profile-summary-card-output/solarized/4-productive-time.svg" /><br>
   </div>
 
+### 🏆 My Badges 
+[![An image of @parnab03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parnab03)](https://holopin.io/@parnab03)
+
 ### 🌐 Connect With Me
 
 <p align="center">
