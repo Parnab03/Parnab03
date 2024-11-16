@@ -40,8 +40,20 @@
    <img height="162em" src="https://raw.githubusercontent.com/Parnab03/Parnab03/main/profile-summary-card-output/solarized/4-productive-time.svg" /><br>
   </div>
 
-### 🏆 My Badges 
+### 🏆 My Badges (Holopin)
 [![An image of @parnab03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parnab03)](https://holopin.io/@parnab03)
+
+### 📚 GSSoC'24-Extd Badges
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" /></a>
+</div>
+
 
 ### 🌐 Connect With Me
 
