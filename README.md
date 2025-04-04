@@ -3,10 +3,7 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=Parnab03&style=plastic&abbreviated=true&color=green" align="center" />
 </div>  
   
-
-### <div align="center">Hey there, I'm Parnab—the kind of coder who starts with a simple idea and somehow ends up debugging existential crises. 🤯💻 Every bug has a backstory 📖, every error message is a plot twist 🎭, and every fix is a small victory worth celebrating. 🎉 Let’s turn late-night debugging 🌙 into a creative adventure 🏕️ and make coding a little less stressful and a lot more fun! 🚀🔥</div>  
-  
-<br/>
+### <div align="center">Hey there, I'm Parnab—the kind of coder who starts with a simple idea and somehow ends up debugging existential crises. 🤯💻 Every bug has a backstory 📖, every error message is a plot twist 🎭, and every fix is a small victory worth celebrating. 🎉 Let’s turn late-night debugging 🌙 into a creative adventure 🏕️ and make coding a little less stressful and a lot more fun! 🚀🔥</div>   
 
 - 🔭 Currently **diving deep** into the open-source ocean—sometimes I code, sometimes I debug for eternity.  
 
@@ -15,9 +12,6 @@
 - ❓ Got questions? **Ask me about Fullstack Development, Git & GitHub, Open Source, or how to survive infinite `console.log()` debugging.**  
 
 - ⚡ **Fun fact:** The term **"bug"** in coding actually came from a real-life moth stuck in a computer—so yes, debugging has been a thing since the 1940s.  
-
-
-<br/>  
 
 ### ⚙️ My Skill Set
 
