@@ -22,3 +22,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Parnab03/Parnab03/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)
+```
+
+    
